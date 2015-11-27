@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1445887931 source:c:\users\leapepe\documents\algo\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"main.h"
+	"simplecalc.h"
+	"graphic.h"
+	"supercalc.h"
+
+1445625944 c:\users\leapepe\documents\algo\tp3\numeric.h
+
+1445626438 c:\users\leapepe\documents\algo\tp3\graphic.h
+
+1445625944 c:\users\leapepe\documents\algo\tp3\simplecalc.h
+
+1445620231 c:\users\leapepe\documents\algo\tp3\transformadas.h
+
+1445887142 c:\users\leapepe\documents\algo\tp3\main.h
+
+1445626333 source:c:\users\leapepe\documents\algo\tp3\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"graphic.h"
+	"main.h"
+	"simplecalc.h"
+
+1445886743 source:c:\users\leapepe\documents\algo\tp3\numeric.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"numeric.h"
+	"main.h"
+
+1445887316 source:c:\users\leapepe\documents\algo\tp3\simplecalc.c
+	<stdio.h>
+	<stdlib.h>
+	"simplecalc.h"
+	"main.h"
+	"numeric.h"
+
+1445889034 c:\users\leapepe\documents\algo\tp3\supercalc.h
+
+1447500486 source:c:\users\leapepe\desktop\tp3-2\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"graphic.h"
+	"main.h"
+	"simplecalc.h"
+
+1447500488 c:\users\leapepe\desktop\tp3-2\graphic.h
+
+1448321072 c:\users\leapepe\desktop\tp3-2\main.h
+
+1447500496 c:\users\leapepe\desktop\tp3-2\simplecalc.h
+
+1448546915 source:c:\users\leapepe\desktop\tp3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"main.h"
+	"simplecalc.h"
+	"graphic.h"
+	"supercalc.h"
+
+1448322159 c:\users\leapepe\desktop\tp3-2\supercalc.h
+
+1447500492 source:c:\users\leapepe\desktop\tp3-2\numeric.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"numeric.h"
+	"main.h"
+
+1447500494 c:\users\leapepe\desktop\tp3-2\numeric.h
+
+1447500496 source:c:\users\leapepe\desktop\tp3-2\simplecalc.c
+	<stdio.h>
+	<stdlib.h>
+	"simplecalc.h"
+	"main.h"
+	"numeric.h"
+
+1448545634 source:c:\users\leapepe\desktop\tp3-2\supercalc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"supercalc.h"
+	"main.h"
+
+1447518486 source:c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\graphic.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"graphic.h"
+	"main.h"
+	"simplecalc.h"
+
+1447518488 c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\graphic.h
+
+1447518491 c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\main.h
+
+1447518497 c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\simplecalc.h
+
+1447535875 source:c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"main.h"
+	"simplecalc.h"
+	"graphic.h"
+	"supercalc.h"
+
+1447518500 c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\supercalc.h
+
+1447518493 source:c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\numeric.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"numeric.h"
+	"main.h"
+
+1447518494 c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\numeric.h
+
+1447518496 source:c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\simplecalc.c
+	<stdio.h>
+	<stdlib.h>
+	"simplecalc.h"
+	"main.h"
+	"numeric.h"
+
+1447535367 source:c:\users\leapepe\google drive\facu\algoritmos 1\tp3-2\supercalc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"supercalc.h"
+	"main.h"
+
+1447701982 source:c:\users\leapepe\desktop\tp3-2\multiply.c
+
